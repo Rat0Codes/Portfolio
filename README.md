@@ -41,6 +41,12 @@ Além de servir como apresentação profissional, o próprio portfólio também 
 * Microinterações e animações
 * Dark mode / estética tecnológica
 * Componentes reutilizáveis
+* 
+## 💻 Telas
+<img width="1852" height="901" alt="Image" src="https://github.com/user-attachments/assets/9ca7f4ce-fb38-4f4a-88de-05eba6f7e77f" />
+<img width="1850" height="911" alt="Image" src="https://github.com/user-attachments/assets/924cf70a-925b-4af8-be20-d933f1631fec" />
+<img width="1847" height="902" alt="Image" src="https://github.com/user-attachments/assets/68ae5aeb-914b-4e27-ab8a-5c02ad559523" />
+<img width="1846" height="907" alt="Image" src="https://github.com/user-attachments/assets/75367c40-02e0-4086-81d0-79285f322a39" />
 
 ## 🧰 Tecnologias
 
